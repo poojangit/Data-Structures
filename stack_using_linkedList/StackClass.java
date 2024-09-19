@@ -1,5 +1,5 @@
 
-public class StackClass {
+public class StackClass{
 
     static class Node {
         int data;
